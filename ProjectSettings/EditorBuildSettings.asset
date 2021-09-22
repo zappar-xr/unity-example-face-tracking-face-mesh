@@ -7,5 +7,5 @@ EditorBuildSettings:
   m_Scenes:
   - enabled: 1
     path: Assets/Scenes/Face Tracking Face Mesh.unity
-    guid: 6d54e51bff25c4fb28af5b712ec55d7d
+    guid: 36f47605dea5a8e4baa27c23c9314a16
   m_configObjects: {}
